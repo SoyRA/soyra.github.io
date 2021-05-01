@@ -3,6 +3,24 @@
   - El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/) y este proyecto se adhiere al [Versionado Semántico](https://semver.org/spec/v2.0.0.html).
     - Pero ya te puedes imaginar como me voy a pasar por los 🥚🥚 todo esto, si realmente llego a seguir bien todo lo que dicen ambos sitios: es casualidad.
 
+## [0.8.30] - 01/05/2021
+### Añadido
+- Nota sobre usar Clon de Vínculo Simbólico en la parte de Consideraciones.
+- PlutoT4 en CoD: WaW
+- S1x en CoD: AW
+
+### Cambiado
+- Versión de CoD4X (ya no se usa `mss32.dll`, se agregó `iw3mp.exe.aaa2cc.org` y `cod4-client-manualinstall_19.0\*`, fuera de eso no cambió nada).
+- Versión de getREKT (no cambió nada).
+- Versión de T5Play (ya no se usa `main\unlock.cfg`, fuera de eso no cambió nada).
+- Versión de PlutoIW5 (ya no se usan `logo.bmp` y `splash.bmp`, fuera de eso no cambió nada).
+- Versión de PlutoT6 (ya no se usan `steam_api.dll` y `codlogo.bmp`, fuera de eso no cambió nada).
+- Versión de IW6x (no cambió nada).
+
+### Eliminado
+- PlusIW3, PlusIW4 y PlusIW5 porque no puedo verificar nada, parece ser que PlusIW3 fue eliminado mientras que los otros dos no deja instalar solo Cliente (esto significa que ya no se puede usar en cualquier idioma).
+  - Por esto y varios problemas que tiene el Lanzador, me veo en la obligación de eliminarlo de la lista (quizás algún día volverá).
+
 ## [0.8.18] - 06/01/2021
 ### Añadido
 - Crack (CDX) en CoD: WWII
